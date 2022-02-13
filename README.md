@@ -11,4 +11,10 @@
 - Abrir el archivo .env que se encuentra en la raiz del proyecto.
 - Modificar el valor REACT_APP_URL  para que coincida con la url donde se encuentra alojado el proyecto de .NET
 
+## Tarjetas para ingresar
+- Numero de tarjeta: 1111-1111-1111-1111, Pin: 1234
+- Numero de tarjeta: 2222-2222-2222-2222, Pin: 1234
+
+
+
 
